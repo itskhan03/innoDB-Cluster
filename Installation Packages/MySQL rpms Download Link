@@ -1,3 +1,7 @@
 Please find below the link to download mysql rpms for MySQL Installation. 
 
 https://downloads.mysql.com/archives/community/
+
+To download directly on linux machine:
+
+wget https://downloads.mysql.com/archives/get/p/23/file/mysql-8.0.34-1.el8.x86_64.rpm-bundle.tar
